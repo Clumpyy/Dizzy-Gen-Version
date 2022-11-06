@@ -1,4 +1,4 @@
-                                     V4.0 Updates !
+                    V4.0 Updates !
 
         Added HWID Auth
 
