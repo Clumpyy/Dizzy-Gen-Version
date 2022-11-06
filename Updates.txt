@@ -1,5 +1,5 @@
-                                                                  V4.0 Updates !
+                                     V4.0 Updates !
 
-            Added HWID Auth
+        Added HWID Auth
 
-            You Now Dont Need Any Solver! Its All Hosted From VPS!
+        You Now Dont Need Any Solver! Its All Hosted From VPS!
